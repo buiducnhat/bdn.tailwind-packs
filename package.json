@@ -1,0 +1,16 @@
+{
+  "name": "bdn.tailwind-packs",
+  "displayName": "Tailwind Packs",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss"
+  ]
+}
